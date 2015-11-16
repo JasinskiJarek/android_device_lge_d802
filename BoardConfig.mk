@@ -20,5 +20,5 @@ TARGET_KERNEL_CONFIG  := cyanogenmod_f320_defconfig
 
 TARGET_OTA_ASSERT_DEVICE := d802,g2,galbi,d800,f320,f320s,f320k,f320l
 
-G2_DTS_TARGET := msm8974-g2-kr
+G2_DTS_TARGET := msm8974-g2-open_com
 
